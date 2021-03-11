@@ -15,7 +15,6 @@
     </dependency>
   </dependencies>
   <distributionManagement>
-
 		<repository>
 			<id>repoR</id>
 			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoR/</url>
